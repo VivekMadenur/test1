@@ -1,1 +1,3 @@
-File b content
+File b content - changed
+line 1
+line 2
